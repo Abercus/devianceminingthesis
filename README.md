@@ -1,2 +1,18 @@
-# devianceminingthesis
-This repository includes all the scripts, tests and results for thesis: "Advanced Methods in Business Process Deviance Mining"
+# Advanced Methods in Business Process Deviance Mining
+
+
+This repository contains all the scripts, tests and results used for thesis: "Advanced Methods in Business Process Deviance Mining".
+
+
+## Guide to the Repository
+
+## Code
+
+## Results
+
+
+
+
+
+
+
