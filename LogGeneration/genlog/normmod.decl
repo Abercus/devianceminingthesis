@@ -1,0 +1,11 @@
+activity response_A
+activity response_B
+activity random_1
+activity random_2
+activity random_3
+activity random_4
+activity random_5
+
+
+Existence[response_A] | |
+NotResponse[response_A, response_B] | |

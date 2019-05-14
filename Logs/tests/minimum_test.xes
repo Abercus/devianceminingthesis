@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<!--Created by Python XES https://pypi.python.org/pypi/xes-->
+<!--(c) Jonathan Sumrall - http://www.sumrall.nl-->
+<log xes.creator="Python XES v1.2" xes.version="1.0" xmlns="http://www.xes-standard.org">
+  <extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+  <extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext"/>
+  <extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext"/>
+  <extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext"/>
+  <global scope="trace">
+    <string key="Label" value="0"/>
+    <string key="concept:name" value="string"/>
+  </global>
+  <global scope="event">
+    <date key="time:timestamp" value="2019-01-24T03:24:38.283901+01:00"/>
+    <string key="concept:name" value="string"/>
+    <string key="org:resource" value="string"/>
+    <string key="lifecycle:transition" value="string"/>
+  </global>
+  <string key="creator" value="Python XES v1.2"/>
+  <trace>
+    <string key="concept:name" value="trace_0"/>
+    <string key="Label" value="1"/>
+    <event>
+      <date key="time:timestamp" value="2019-01-24T03:24:38.283845+01:00"/>
+      <string key="concept:name" value="A"/>
+      <string key="org:resource" value="res0"/>
+      <string key="lifecycle:transition" value="complete"/>
+    </event>
+    <event>
+      <date key="time:timestamp" value="2019-01-24T03:34:38.283845+01:00"/>
+      <string key="concept:name" value="B"/>
+      <string key="org:resource" value="res0"/>
+      <string key="lifecycle:transition" value="complete"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="trace_1"/>
+    <string key="Label" value="0"/>
+    <event>
+      <date key="time:timestamp" value="2019-01-24T03:44:38.283845+01:00"/>
+      <string key="concept:name" value="B"/>
+      <string key="org:resource" value="res0"/>
+      <string key="lifecycle:transition" value="complete"/>
+    </event>
+    <event>
+      <date key="time:timestamp" value="2019-01-24T03:54:38.283845+01:00"/>
+      <string key="concept:name" value="A"/>
+      <string key="org:resource" value="res0"/>
+      <string key="lifecycle:transition" value="complete"/>
+    </event>
+  </trace>
+</log>

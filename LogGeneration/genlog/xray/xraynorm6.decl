@@ -1,0 +1,25 @@
+activity examine_patient
+activity perform_X_ray
+activity check_X_ray_risk
+activity perform_reposition
+activity apply_cast
+activity remove_cast
+activity perform_surgery
+activity prescribe_rehabilitation
+
+Init[check_X_ray_risk]
+AlternatePrecedence[perform_X_ray, check_X_ray_risk]
+Precedence[perform_reposition, perform_X_ray]
+Precedence[apply_cast, perform_X_ray]
+Response[apply_cast, remove_cast]
+Precedence[remove_cast, apply_cast]
+NotResponse[perform_X_ray, perform_surgery]
+Response[perform_surgery,prescribe_rehabilitation]
+Absence[examine_patient,3] | |
+Absence[perform_X_ray,3] | |
+Absence[check_X_ray_risk,3] | |
+Absence[perform_reposition,3] | |
+Absence[apply_cast,3] | |
+Absence[remove_cast,3] | |
+Absence[perform_surgery,3] | |
+Absence[prescribe_rehabilitation,3] | |

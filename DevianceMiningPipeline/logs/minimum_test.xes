@@ -1,0 +1,280 @@
+<?xml version="1.0" ?>
+<!--Created by Python XES https://pypi.python.org/pypi/xes-->
+<!--(c) Jonathan Sumrall - http://www.sumrall.nl-->
+<log xes.creator="Python XES v1.2" xes.version="1.0" xmlns="http://www.xes-standard.org">
+  <extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+  <extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext"/>
+  <extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext"/>
+  <extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext"/>
+  <global scope="trace">
+    <string key="class" value="false"/>
+    <string key="concept:name" value="string"/>
+  </global>
+  <global scope="event">
+    <date key="time:timestamp" value="2018-11-29T11:47:58.846171+01:00"/>
+    <string key="concept:name" value="string"/>
+    <string key="org:resource" value="string"/>
+    <string key="lifecycle:transition" value="string"/>
+  </global>
+  <string key="creator" value="Python XES v1.2"/>
+  <trace>
+    <string key="concept:name" value="8"/>
+    <string key="class" value="false"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.846030+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:57:58.846030+01:00"/>
+      <string key="concept:name" value="activity_1"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="2"/>
+    <string key="class" value="false"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.845926+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:57:58.845926+01:00"/>
+      <string key="concept:name" value="activity_1"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="1"/>
+    <string key="class" value="false"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.845878+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:57:58.845878+01:00"/>
+      <string key="concept:name" value="activity_1"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="14"/>
+    <string key="class" value="true"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.846103+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="16"/>
+    <string key="class" value="true"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.846119+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="12"/>
+    <string key="class" value="true"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.846085+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="10"/>
+    <string key="class" value="false"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.846060+01:00"/>
+      <string key="concept:name" value="activity_1"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:57:58.846060+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="19"/>
+    <string key="class" value="true"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.846147+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="18"/>
+    <string key="class" value="true"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.846138+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="11"/>
+    <string key="class" value="true"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.846075+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="13"/>
+    <string key="class" value="true"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.846094+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="4"/>
+    <string key="class" value="false"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.845965+01:00"/>
+      <string key="concept:name" value="activity_1"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:57:58.845965+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="3"/>
+    <string key="class" value="false"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.845948+01:00"/>
+      <string key="concept:name" value="activity_1"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:57:58.845948+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="17"/>
+    <string key="class" value="true"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.846127+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="5"/>
+    <string key="class" value="false"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.845981+01:00"/>
+      <string key="concept:name" value="activity_1"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:57:58.845981+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="15"/>
+    <string key="class" value="true"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.846111+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="7"/>
+    <string key="class" value="false"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.846011+01:00"/>
+      <string key="concept:name" value="activity_1"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:57:58.846011+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="9"/>
+    <string key="class" value="false"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.846045+01:00"/>
+      <string key="concept:name" value="activity_1"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:57:58.846045+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="20"/>
+    <string key="class" value="true"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.846155+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="6"/>
+    <string key="class" value="false"/>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:47:58.845997+01:00"/>
+      <string key="concept:name" value="activity_1"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+    <event>
+      <date key="time:timestamp" value="2018-11-29T11:57:58.845997+01:00"/>
+      <string key="concept:name" value="activity_2"/>
+      <string key="org:resource" value="resource1"/>
+      <string key="lifecycle:transition" value="COMPLETE"/>
+    </event>
+  </trace>
+</log>

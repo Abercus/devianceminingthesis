@@ -1,0 +1,206 @@
+activity seq1
+activity seq2
+activity seq3
+activity seq4
+activity random_1
+activity random_2
+activity random_3
+activity random_4
+activity random_5
+activity random_6
+activity random_7
+activity random_8
+activity random_9
+activity random_10
+activity random_11
+activity random_12
+activity random_13
+activity random_14
+activity random_15
+activity random_16
+activity random_17
+activity random_18
+activity random_19
+activity random_20
+activity random_21
+activity random_22
+activity random_23
+activity random_24
+activity random_25
+activity random_26
+activity random_27
+activity random_28
+activity random_29
+activity random_30
+activity random_31
+activity random_32
+activity random_33
+activity random_34
+activity random_35
+activity random_36
+activity random_37
+activity random_38
+activity random_39
+activity random_40
+activity random_41
+activity random_42
+activity random_43
+activity random_44
+activity random_45
+activity random_46
+activity random_47
+activity random_48
+activity random_49
+activity random_50
+activity random_51
+activity random_52
+activity random_53
+activity random_54
+activity random_55
+activity random_56
+activity random_57
+activity random_58
+activity random_59
+activity random_60
+activity random_61
+activity random_62
+activity random_63
+activity random_64
+activity random_65
+activity random_66
+activity random_67
+activity random_68
+activity random_69
+activity random_70
+activity random_71
+activity random_72
+activity random_73
+activity random_74
+activity random_75
+activity random_76
+activity random_77
+activity random_78
+activity random_79
+activity random_80
+activity random_81
+activity random_82
+activity random_83
+activity random_84
+activity random_85
+activity random_86
+activity random_87
+activity random_88
+activity random_89
+activity random_90
+activity random_91
+activity random_92
+activity random_93
+activity random_94
+activity random_95
+activity random_96
+activity random_97
+activity random_98
+activity random_99
+activity random_100
+
+NotChainResponse[seq1, seq2] | |
+Absence[random_1,3] | |
+Absence[random_2,3] | |
+Absence[random_3,3] | |
+Absence[random_4,3] | |
+Absence[random_5,3] | |
+Absence[random_6,3] | |
+Absence[random_7,3] | |
+Absence[random_8,3] | |
+Absence[random_9,3] | |
+Absence[random_10,3] | |
+Absence[random_11,3] | |
+Absence[random_12,3] | |
+Absence[random_13,3] | |
+Absence[random_14,3] | |
+Absence[random_15,3] | |
+Absence[random_16,3] | |
+Absence[random_17,3] | |
+Absence[random_18,3] | |
+Absence[random_19,3] | |
+Absence[random_20,3] | |
+Absence[random_21,3] | |
+Absence[random_22,3] | |
+Absence[random_23,3] | |
+Absence[random_24,3] | |
+Absence[random_25,3] | |
+Absence[random_26,3] | |
+Absence[random_27,3] | |
+Absence[random_28,3] | |
+Absence[random_29,3] | |
+Absence[random_30,3] | |
+Absence[random_31,3] | |
+Absence[random_32,3] | |
+Absence[random_33,3] | |
+Absence[random_34,3] | |
+Absence[random_35,3] | |
+Absence[random_36,3] | |
+Absence[random_37,3] | |
+Absence[random_38,3] | |
+Absence[random_39,3] | |
+Absence[random_40,3] | |
+Absence[random_41,3] | |
+Absence[random_42,3] | |
+Absence[random_43,3] | |
+Absence[random_44,3] | |
+Absence[random_45,3] | |
+Absence[random_46,3] | |
+Absence[random_47,3] | |
+Absence[random_48,3] | |
+Absence[random_49,3] | |
+Absence[random_50,3] | |
+Absence[random_51,3] | |
+Absence[random_52,3] | |
+Absence[random_53,3] | |
+Absence[random_54,3] | |
+Absence[random_55,3] | |
+Absence[random_56,3] | |
+Absence[random_57,3] | |
+Absence[random_58,3] | |
+Absence[random_59,3] | |
+Absence[random_60,3] | |
+Absence[random_61,3] | |
+Absence[random_62,3] | |
+Absence[random_63,3] | |
+Absence[random_64,3] | |
+Absence[random_65,3] | |
+Absence[random_66,3] | |
+Absence[random_67,3] | |
+Absence[random_68,3] | |
+Absence[random_69,3] | |
+Absence[random_70,3] | |
+Absence[random_71,3] | |
+Absence[random_72,3] | |
+Absence[random_73,3] | |
+Absence[random_74,3] | |
+Absence[random_75,3] | |
+Absence[random_76,3] | |
+Absence[random_77,3] | |
+Absence[random_78,3] | |
+Absence[random_79,3] | |
+Absence[random_80,3] | |
+Absence[random_81,3] | |
+Absence[random_82,3] | |
+Absence[random_83,3] | |
+Absence[random_84,3] | |
+Absence[random_85,3] | |
+Absence[random_86,3] | |
+Absence[random_87,3] | |
+Absence[random_88,3] | |
+Absence[random_89,3] | |
+Absence[random_90,3] | |
+Absence[random_91,3] | |
+Absence[random_92,3] | |
+Absence[random_93,3] | |
+Absence[random_94,3] | |
+Absence[random_95,3] | |
+Absence[random_96,3] | |
+Absence[random_97,3] | |
+Absence[random_98,3] | |
+Absence[random_99,3] | |
+Absence[random_100,3] | |
