@@ -273,8 +273,14 @@ def run_deviance_new(log_path, results_folder, templates=None, filter_t=True, re
             "logPath": log_path.format(logNr + 1),
             "labelled": True
         }
+        
+        folder_name ="./declareOutput/"
+        if not os.path.exists(folder_name):
+            os.makedirs(folder_name)
 
         print("Deviance mining filtering:", filter_t)
+        
+        
         deviance_main(args, templates=templates, filter_t=filter_t, reencode=reencode)
 
         move_out_files_new(logNr + 1, results_folder)

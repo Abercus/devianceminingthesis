@@ -651,7 +651,7 @@ def move_dwd_files(inp_folder, output_folder, split_nr):
 
 
 def run_declare_with_data(log_path, settings, results_folder):
-    for logNr in range(5):
+    for logNr in range(5):       
         logPath = log_path.format(logNr + 1)
         folder_name = "./dwdOutput/"
         if not os.path.exists(folder_name):

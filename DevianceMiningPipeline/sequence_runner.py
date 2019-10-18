@@ -115,6 +115,10 @@ def run_sequences(log_path, results_folder, sequence_threshold=5):
     for paramString, techName, folder in paramStrings:
         print("Working on {}".format(techName))
         for splitNr in range(5):
+            
+            folder_name = "./output/"
+            if not os.path.exists(folder_name):
+                os.makedirs(folder_name)
 
             print("Working on split {}".format(splitNr+1))
             inputFile = (log_path.format(splitNr+1), False)
